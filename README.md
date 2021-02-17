@@ -1,6 +1,6 @@
 # Second assignment in my OOP class. 
 
-GSe dau urmatoarele clase:
+Se dau urmatoarele clase:
 - Vector (int *a)
 - Nr_Natural_Mare(int_nrcif, Vector V)
 - Numar_Fibonacci_mare:Nr_Natural_Mare
